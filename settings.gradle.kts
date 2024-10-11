@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SealedClassHomework"
+rootProject.name = "ТулГУ coin"
 include(":app")
